@@ -1,0 +1,26 @@
+{
+	"title": "Binance x Frontier Dancing Man Metadata",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "Binance x Frontier Dancing Man"
+		},
+		"decimals": {
+			"type": "integer",
+			"description": "0"
+		},
+		"description": {
+			"type": "string",
+			"description": "Binance Dancing Man is a happy NFT designed and created by the Frontier team and minted by the Bounce Finance team in accordance with their proposed Binance Smart Chain NFT standards. This NFT represents happiness, dancing, and never-ending energy."
+		},
+		"image": {
+			"type": "string",
+			"description": "https://raw.githubusercontent.com/superzitao/NFT/main/18-prod_1.gif"
+		},
+		"properties": {
+			"type": "object",
+			"description": "Arbitrary properties. Values may be strings, numbers, object or arrays."
+		}
+	}
+}
